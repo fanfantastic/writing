@@ -1,5 +1,5 @@
 ---
-title: 本站开篇说明
+title: 写在首篇
 date: 2018-05-08 22:42:06
 categories:
 - 站点日志
