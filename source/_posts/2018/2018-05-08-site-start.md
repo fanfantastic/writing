@@ -29,8 +29,8 @@ tags:
 近来在公司脾气总是很差，有一句话怎么说的，“人要适应环境，而不是改变环境”。对于我来说，改变不了，不用适应，只要不要让它影响我就好了。
 
 ## 工具选型
-- [hexo](https://hexo.io/)：基于nodejs的静态页面生成工具，同类产品还有jekyll、hugo等，最近流行的是hugo，我选择hexo是因为喜欢hexo里边的Next主题
-- [next](https://theme-next.iissnan.com/)：hexo中口碑很好的主题
-- [markdown](https://www.appinn.com/markdown/index.html)：语法简洁，用来生成html的，写文章用它最合适不过了，写好之后，可以作为源文件托管到github里；还可以拷贝到CSDN等博客网站，多次复用
-- [vscode](https://code.visualstudio.com/)：编写hexo配置文件以及md文件很合适
+- [Hexo](https://hexo.io/)：基于Node.js的静态页面生成工具，同类产品还有Jekyll、Hugo等，最近流行的是Hugo，我选择Hexo是因为喜欢Hexo里边的NexT主题
+- [NexT](https://theme-next.iissnan.com/)：Hexo中口碑很好的主题
+- [Markdown](https://www.appinn.com/markdown/index.html)：语法简洁，用来生成Html的，写文章用它最合适不过了，写好之后，可以作为源文件托管到github里；还可以拷贝到 CSDN 等博客网站，多次复用
+- [vscode](https://code.visualstudio.com/)：编写Hexo配置文件以及md文件很合适
 - [Github Pages](https://pages.github.com/)：如果不想单独买服务器，Github Pages可以作为静态web容器提供服务，支持自定义域名绑定
