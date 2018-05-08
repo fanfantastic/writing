@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.fantastic.kim/"/>
-  <updated>2018-05-08T10:58:42.450Z</updated>
+  <updated>2018-05-08T18:23:55.378Z</updated>
   <id>http://blog.fantastic.kim/</id>
   
   <author>
@@ -17,20 +17,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://blog.fantastic.kim/2018/hello-world/"/>
-    <id>http://blog.fantastic.kim/2018/hello-world/</id>
-    <published>2018-05-07T17:34:24.427Z</published>
-    <updated>2018-05-08T10:58:42.450Z</updated>
+    <title>本站开篇说明</title>
+    <link href="http://blog.fantastic.kim/2018/site-start/"/>
+    <id>http://blog.fantastic.kim/2018/site-start/</id>
+    <published>2018-05-08T14:42:06.000Z</published>
+    <updated>2018-05-08T18:23:55.378Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>五一放假期间，我在家里学习着一些晦涩枯燥的底层技术，感觉特别枯燥和疲劳。我正想暂停去睡觉的时候，突然想到学习不应该这么痛苦的，至少不应该时时刻刻都这么痛苦，我需要做点别的事情调剂一下，反正睡觉也是睡觉，于是就想到了搭站点写博客。正好一直没有自己的域名，也不经常写博客，技术人没有自己的域名，没有自己的站点好像是有点说不过去。<br><a id="more"></a></p><h2 id="我为什么写博客"><a href="#我为什么写博客" class="headerlink" title="我为什么写博客"></a>我为什么写博客</h2><h3 id="增加学习趣味"><a href="#增加学习趣味" class="headerlink" title="增加学习趣味"></a>增加学习趣味</h3><p>毋庸置疑，做技术需要源源不断的学习，要想出类拔萃更加需要切入底层突破表面去深入学习，这种深入的过程很痛苦，不能像学习基础语法那样想着短时间学完就结束了，如果这样很容易坚持不下去。所以呢，我觉得写博客作为学习时候的调剂，学习到一点记录一点，时间久了，有心积累的多了，总比不去深入学习放弃的强。</p><h3 id="作为备忘录"><a href="#作为备忘录" class="headerlink" title="作为备忘录"></a>作为备忘录</h3><p>这就不用多说了，大脑是缓存，避免信息被淘汰，还是用硬盘持久化下来保险。</p><h3 id="提高文档能力"><a href="#提高文档能力" class="headerlink" title="提高文档能力"></a>提高文档能力</h3><p>嗯。终有一天我会甩开跟公司这帮成天写业务代码也能写的煞有介事的人的距离，我也要慢慢开始写自己的开源项目。那么，我需要为我的项目写project page。这需要很强的写文档能力，看不明白没人用啊。</p><h3 id="提高归纳总结能力"><a href="#提高归纳总结能力" class="headerlink" title="提高归纳总结能力"></a>提高归纳总结能力</h3><p>建站点写博客需要规划很多东西，比如站点的目录结构，文章的目录结构，图片的存放等等。</p><h3 id="开拓技术视野"><a href="#开拓技术视野" class="headerlink" title="开拓技术视野"></a>开拓技术视野</h3><p>在这之前我没有自己的域名，亲自买了一次才知道域名的世界里不仅仅只有 <em>.com</em>、<em>.cn</em> 这些，还有 <em>.kim</em>、<em>.vip</em> 这些新顶级域名，所以说自己作站长，总能长点网站方面的见识。比如往后我的站点还要集成访问统计，百度搜索什么的。</p><h3 id="修养心性"><a href="#修养心性" class="headerlink" title="修养心性"></a>修养心性</h3><p>近来在公司脾气总是很差，有一句话怎么说的，“人要适应环境，而不是改变环境”。对于我来说，改变不了，不用适应，只要不要让它影响我就好了。</p><h2 id="工具选型"><a href="#工具选型" class="headerlink" title="工具选型"></a>工具选型</h2><ul><li><a href="https://hexo.io/" target="_blank" rel="noopener">hexo</a>：基于nodejs的静态页面生成工具，同类产品还有jekyll、hugo等，最近流行的是hugo，我选择hexo是因为喜欢hexo里边的Next主题</li><li><a href="https://theme-next.iissnan.com/" target="_blank" rel="noopener">next</a>：hexo中口碑很好的主题</li><li><a href="https://www.appinn.com/markdown/index.html" target="_blank" rel="noopener">markdown</a>：语法简洁，用来生成html的，写文章用它最合适不过了，写好之后，可以作为源文件托管到github里；还可以拷贝到CSDN等博客网站，多次复用</li><li><a href="https://code.visualstudio.com/" target="_blank" rel="noopener">vscode</a>：编写hexo配置文件以及md文件很合适</li><li><a href="https://pages.github.com/" target="_blank" rel="noopener">Github Pages</a>：如果不想单独买服务器，Github Pages可以作为静态web容器提供服务，支持自定义域名绑定</li></ul>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+      &lt;p&gt;五一放假期间，我在家里学习着一些晦涩枯燥的底层技术，感觉特别枯燥和疲劳。我正想暂停去睡觉的时候，突然想到学习不应该这么痛苦的，至少不应该时时刻刻都这么痛苦，我需要做点别的事情调剂一下，反正睡觉也是睡觉，于是就想到了搭站点写博客。正好一直没有自己的域名，也不经常写博客，技术人没有自己的域名，没有自己的站点好像是有点说不过去。&lt;br&gt;
     
     </summary>
     
+      <category term="站点日志" scheme="http://blog.fantastic.kim/categories/%E7%AB%99%E7%82%B9%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="里程碑" scheme="http://blog.fantastic.kim/tags/%E9%87%8C%E7%A8%8B%E7%A2%91/"/>
     
   </entry>
   
