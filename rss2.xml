@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fantastic&#39;s Blogs</title>
+    <link>http://blog.fantastic.kim/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>sometimes coding, sometimes piano, the fantastic life</description>
+    <pubDate>Wed, 09 May 2018 05:05:20 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>写在首篇</title>
+      <link>http://blog.fantastic.kim/2018/site-start/</link>
+      <guid>http://blog.fantastic.kim/2018/site-start/</guid>
+      <pubDate>Tue, 08 May 2018 14:42:06 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;五一休假期间，我在家里学习着一些晦涩枯燥的底层技术，感觉特别枯燥和疲劳。我正想暂停去睡觉的时候，突然想到学习不应该这么痛苦的，至少不应该时时刻刻都这么痛苦，我需要做点别的事情调剂一下，反正睡觉也是睡觉，于是就想到了搭站点写博客。正好一直没有自己的域名，也不经常写博客，技术人没有自己的域名，没有自己的站点，好像是有点说不过去。&lt;br&gt;
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>五一休假期间，我在家里学习着一些晦涩枯燥的底层技术，感觉特别枯燥和疲劳。我正想暂停去睡觉的时候，突然想到学习不应该这么痛苦的，至少不应该时时刻刻都这么痛苦，我需要做点别的事情调剂一下，反正睡觉也是睡觉，于是就想到了搭站点写博客。正好一直没有自己的域名，也不经常写博客，技术人没有自己的域名，没有自己的站点，好像是有点说不过去。<br><a id="more"></a></p><h2 id="工具集"><a href="#工具集" class="headerlink" title="工具集"></a>工具集</h2><ul><li><a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>：基于Node.js的静态页面生成工具，同类产品还有Jekyll、Hugo等，最近流行的是Hugo，我选择Hexo是因为喜欢Hexo里边的NexT主题</li><li><a href="https://theme-next.iissnan.com/" target="_blank" rel="noopener">NexT</a>：Hexo中口碑很好的主题</li><li><a href="https://www.appinn.com/markdown/index.html" target="_blank" rel="noopener">Markdown</a>：用来生成Html的一种标记语言，语法简洁，让文章作者更加专注于内容本身，而非样式，写文章用它最合适不过了。写好之后，可以作为源文件托管到github里，还可以拷贝到 CSDN 等博客网站，多次复用</li><li><a href="https://code.visualstudio.com/" target="_blank" rel="noopener">vscode</a>：编写Hexo配置文件以及md文件很合适</li><li><a href="https://pages.github.com/" target="_blank" rel="noopener">Github Pages</a>：如果不想单独买服务器，Github Pages可以为静态资源提供web服务，同时支持自定义域名绑定</li></ul>]]></content:encoded>
+      
+      <comments>http://blog.fantastic.kim/2018/site-start/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
