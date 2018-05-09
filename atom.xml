@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fantastic&#39;s Blogs</title>
+  
+  <subtitle>Java | Piano | Life</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.fantastic.kim/"/>
+  <updated>2018-05-09T07:28:57.503Z</updated>
+  <id>http://blog.fantastic.kim/</id>
+  
+  <author>
+    <name>fantastic</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>写在首篇</title>
+    <link href="http://blog.fantastic.kim/2018/site-start/"/>
+    <id>http://blog.fantastic.kim/2018/site-start/</id>
+    <published>2018-05-08T14:42:06.000Z</published>
+    <updated>2018-05-09T07:28:57.503Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;花了一周多的时间搭建了这个站点，搭建过程中也开阔了不少的技术视野，特别在写文档、建站方面增长了很多经验。原来搭建一个博客网站，或者是为项目写page可以这么简单，不用自己布局写代码的。果然是在这个开源的人才辈出的世界里，很难再有什么痛点，只要是共性的困难，共性的需求，都有人主动出方案解决的。万一你真遇到了什么麻烦的事情同时也找不到相应的解决方案，那么，恭喜你，你出手的机会来了。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="站点日志" scheme="http://blog.fantastic.kim/categories/%E7%AB%99%E7%82%B9%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="里程碑" scheme="http://blog.fantastic.kim/tags/%E9%87%8C%E7%A8%8B%E7%A2%91/"/>
+    
+  </entry>
+  
+</feed>
