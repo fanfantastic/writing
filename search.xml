@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2018%2Ftest%2F</url>
+    <content type="text"><![CDATA[花了一周多的时间搭建了这个站点 https://blog.fantastic.kim/ ，搭建过程中也开阔了不少的技术视野，特别在写文档、建站方面增长了很多经验。原来搭建一个博客网站，或者是为项目写page可以这么简单，不用自己布局写代码的。果然是在这个开源的人才辈出的世界里，很难再有什么痛点，只要是共性的困难，共性的需求，都有人主动出方案解决的。万一你真遇到了什么麻烦的事情同时也找不到相应的解决方案，那么，恭喜你，你出手的机会来了1。 工具集 Hexo：基于Node.js的静态页面生成工具，同类产品还有Jekyll、Hugo等，最近流行的是Hugo，我选择Hexo是因为喜欢Hexo里边的NexT主题 NexT：Hexo中口碑很好的主题 Markdown：用来生成Html的一种标记语言，语法简洁，让文章作者更加专注于内容本身，而非样式，写文章用它最合适不过了。写好之后，可以作为源文件托管到github里，还可以拷贝到 CSDN 等博客网站，多次复用 vscode：编写Hexo配置文件以及md文件很合适 Github Pages：如果不想单独买服务器，Github Pages可以为静态资源提供web服务，同时支持自定义域名绑定 腾讯公益404 收获的知识点RSS]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[写在首篇]]></title>
     <url>%2F2018%2Fsite-start%2F</url>
     <content type="text"><![CDATA[花了一周多的时间搭建了这个站点 https://blog.fantastic.kim/ ，搭建过程中也开阔了不少的技术视野，特别在写文档、建站方面增长了很多经验。原来搭建一个博客网站，或者是为项目写page可以这么简单，不用自己布局写代码的。果然是在这个开源的人才辈出的世界里，很难再有什么痛点，只要是共性的困难，共性的需求，都有人主动出方案解决的。万一你真遇到了什么麻烦的事情同时也找不到相应的解决方案，那么，恭喜你，你出手的机会来了1。 工具集 Hexo：基于Node.js的静态页面生成工具，同类产品还有Jekyll、Hugo等，最近流行的是Hugo，我选择Hexo是因为喜欢Hexo里边的NexT主题 NexT：Hexo中口碑很好的主题 Markdown：用来生成Html的一种标记语言，语法简洁，让文章作者更加专注于内容本身，而非样式，写文章用它最合适不过了。写好之后，可以作为源文件托管到github里，还可以拷贝到 CSDN 等博客网站，多次复用 vscode：编写Hexo配置文件以及md文件很合适 Github Pages：如果不想单独买服务器，Github Pages可以为静态资源提供web服务，同时支持自定义域名绑定 腾讯公益404 收获的知识点RSS]]></content>
